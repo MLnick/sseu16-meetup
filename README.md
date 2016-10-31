@@ -4,6 +4,7 @@ Requirements:
 * `elasticsearch-spark` 2.4.0 JAR on the classpath ([download](https://www.elastic.co/downloads/past-releases/elasticsearch-apache-hadoop-2-4-0)).
 * Spark 1.6.x ([download](http://spark.apache.org/downloads.html)).
 * Running instance of Elasticsearch 2.4.x ([download](https://www.elastic.co/downloads/past-releases/elasticsearch-2-4-1)).
+* ES vector scoring plugin installed (https://github.com/MLnick/elasticsearch-vector-scoring).
 * Jupyter (`pip install jupyter`).
 
 To run: 
